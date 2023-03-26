@@ -1,0 +1,34 @@
+{\rtf1\ansi\ansicpg1251\cocoartf1561\cocoasubrtf610
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
+{\*\expandedcolortbl;;\cssrgb\c27059\c27059\c27059;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf2 <html>\
+<body>\
+\
+<p><b>This is a Comfort Town.</b></p>\
+<p>Comfort Town is located in Kyiv.</p>\
+\
+<h2><b>List of Cafes.</b></h2>\
+\
+<ol>\
+  <li>Comfort Town Cafe</li>\
+  <li>Italist</li>\
+  <li>Villagio</li>\
+</ol>  \
+\
+<h2><b>List of Coffee Shops.</b></h2>\
+\
+<ol>\
+  <li>Kyiv</li>\
+  <li>Halva</li>\
+  <li>Arka</li>\
+</ol> \
+\
+<a href="image.html"></a>\
+\
+</body>\
+</html>}
